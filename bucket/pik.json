@@ -1,0 +1,16 @@
+{
+  "version": "0.30.2",
+  "description": "Process interactive kill",
+  "homepage": "https://github.com/jacek-kurlit/pik",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/jacek-kurlit/pik/releases/download/0.30.2/pik-0.30.2-x86_64-pc-windows-msvc.zip",
+      "hash": "8d76156fb8951cba6cdbd9da80b371a7aab1e78b3a6520f7456dc55c7f8fe66f"
+    }
+  },
+  "bin": "pik.exe",
+  "checkver": {
+    "github": "https://github.com/jacek-kurlit/pik"
+  }
+}
